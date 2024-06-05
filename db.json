@@ -1,0 +1,353 @@
+{
+  "users": [
+    {
+      "user_id": 1,
+      "username": "john_doe",
+      "password_hash": "john@123",
+      "email": "john@example.com",
+      "is_admin": false,
+      "id": "e453"
+    },
+    {
+      "user_id": 2,
+      "username": "jane_smith",
+      "password_hash": "jane@123",
+      "email": "jane@example.com",
+      "is_admin": true,
+      "id": "a74d"
+    },
+    {
+      "user_id": 3,
+      "username": "bob_jones",
+      "password_hash": "bob@123",
+      "email": "bob@example.com",
+      "is_admin": false,
+      "id": "1bad"
+    },
+    {
+      "user_id": 4,
+      "username": "alice_green",
+      "password_hash": "alice@123",
+      "email": "alice@example.com",
+      "is_admin": false,
+      "id": "eb4c"
+    },
+    {
+      "id": "746a",
+      "user_id": 5,
+      "username": "demouser",
+      "password_hash": "demo@123",
+      "email": "demo@gmail.com",
+      "is_admin": false
+    },
+    {
+      "id": "b3iZWfH3dudI1fltU4IzCqYE8xE3",
+      "user_id": 6,
+      "username": "Eashwarsai",
+      "password_hash": "Eash@123",
+      "email": "eashwarsaiboini@gmail.com",
+      "is_admin": false
+    }
+  ],
+  "Current": [],
+  "Freezed": [
+    {
+      "id": "27a1",
+      "name": "newEvent4",
+      "date": "2024-04-25T18:30:00.000Z",
+      "suggestions": [
+        {
+          "place": "exploding kittens @office",
+          "category": "BoardGames",
+          "upvotes": [
+            "a74d"
+          ],
+          "downvotes": []
+        }
+      ],
+      "finalizedSuggestion": {
+        "place": "exploding kittens @office",
+        "category": "BoardGames",
+        "upvotes": [
+          "e453",
+          "a74d"
+        ],
+        "downvotes": [
+          "745a",
+          "b3iZWfH3dudI1fltU4IzCqYE8xE3"
+        ]
+      }
+    },
+    {
+      "id": "47af",
+      "name": "temperory",
+      "date": "2024-04-25T08:38:08.000Z",
+      "suggestions": [
+        {
+          "place": "bang @office",
+          "category": "BoardGames",
+          "upvotes": [
+            "b3iZWfH3dudI1fltU4IzCqYE8xE3",
+            "a74d"
+          ],
+          "downvotes": []
+        }
+      ],
+      "finalizedSuggestion": {
+        "place": "bang @office",
+        "category": "BoardGames",
+        "upvotes": [
+          "b3iZWfH3dudI1fltU4IzCqYE8xE3"
+        ],
+        "downvotes": []
+      }
+    },
+    {
+      "id": "e290",
+      "name": "demo #kt",
+      "date": "2024-04-30T02:38:08.000Z",
+      "suggestions": [
+        {
+          "place": "bang at office",
+          "category": "BoardGames",
+          "upvotes": [
+            "a74d"
+          ],
+          "downvotes": []
+        }
+      ],
+      "finalizedSuggestion": {
+        "place": "bang at office",
+        "category": "BoardGames",
+        "upvotes": [
+          "b3iZWfH3dudI1fltU4IzCqYE8xE3"
+        ],
+        "downvotes": []
+      }
+    },
+    {
+      "id": "6b42",
+      "name": "demo #2",
+      "date": "2024-04-30T15:37:07.000Z",
+      "suggestions": [
+        {
+          "place": "bang @office",
+          "category": "BoardGames",
+          "upvotes": [
+            "a74d"
+          ],
+          "downvotes": []
+        }
+      ],
+      "finalizedSuggestion": {
+        "place": "bang @office",
+        "category": "BoardGames",
+        "upvotes": [
+          "b3iZWfH3dudI1fltU4IzCqYE8xE3"
+        ],
+        "downvotes": []
+      }
+    }
+  ],
+  "Finished": [
+    {
+      "id": "9a0b",
+      "name": "demo event #1",
+      "date": "2024-04-24T11:34:04.000Z",
+      "suggestions": [
+        {
+          "place": "bang @office",
+          "category": "BoardGames",
+          "upvotes": [
+            "a74d"
+          ],
+          "downvotes": []
+        },
+        {
+          "place": "cricket @game point gachibouli",
+          "category": "Sports",
+          "upvotes": [],
+          "downvotes": [
+            "a74d"
+          ]
+        }
+      ],
+      "finalizedSuggestion": {
+        "place": "bang @office",
+        "category": "BoardGames",
+        "upvotes": [
+          "a74d"
+        ],
+        "downvotes": []
+      }
+    },
+    {
+      "id": "2daa",
+      "name": "demo #2",
+      "date": "2024-04-24T13:37:08.000Z",
+      "suggestions": [
+        {
+          "place": "bang @office",
+          "category": "BoardGames",
+          "upvotes": [
+            "a74d"
+          ],
+          "downvotes": []
+        }
+      ],
+      "finalizedSuggestion": {
+        "place": "bang @office",
+        "category": "BoardGames",
+        "upvotes": [],
+        "downvotes": [
+          "a74d"
+        ]
+      }
+    },
+    {
+      "id": "1f70",
+      "name": "random Event",
+      "date": "2024-04-30T01:37:08.000Z",
+      "suggestions": [
+        {
+          "place": "cricket @game point hitecity",
+          "category": "Sports",
+          "upvotes": [
+            "a74d"
+          ],
+          "downvotes": []
+        }
+      ],
+      "finalizedSuggestion": {
+        "place": "cricket @game point hitecity",
+        "category": "Sports",
+        "upvotes": [
+          "a74d"
+        ],
+        "downvotes": []
+      }
+    },
+    {
+      "id": "fe58",
+      "name": "demo",
+      "date": "2024-04-25T18:30:00.000Z",
+      "suggestions": [
+        {
+          "place": "bang @office",
+          "category": "BoardGames",
+          "upvotes": [],
+          "downvotes": []
+        }
+      ],
+      "finalizedSuggestion": {
+        "place": "bang @office",
+        "category": "BoardGames",
+        "upvotes": [
+          "a74d"
+        ],
+        "downvotes": []
+      }
+    },
+    {
+      "id": "796f",
+      "name": "demo#3",
+      "date": "2024-04-24T13:00:00.000Z",
+      "suggestions": [
+        {
+          "place": "bang @office",
+          "category": "BoardGames",
+          "upvotes": [
+            "a74d"
+          ],
+          "downvotes": []
+        }
+      ],
+      "finalizedSuggestion": {
+        "place": "bang @office",
+        "category": "BoardGames",
+        "upvotes": [
+          "745a",
+          "b3iZWfH3dudI1fltU4IzCqYE8xE3"
+        ],
+        "downvotes": [
+          "a74d"
+        ]
+      }
+    },
+    {
+      "id": "75cb",
+      "name": "newEvent3",
+      "date": "2024-04-29T18:30:00.000Z",
+      "suggestions": [
+        {
+          "place": "TT at office",
+          "category": "BoardGames",
+          "upvotes": [
+            "a74d"
+          ],
+          "downvotes": []
+        }
+      ],
+      "finalizedSuggestion": {
+        "place": "TT at office",
+        "category": "BoardGames",
+        "upvotes": [],
+        "downvotes": [
+          "b3iZWfH3dudI1fltU4IzCqYE8xE3"
+        ]
+      }
+    },
+    {
+      "id": "a722",
+      "name": "friday fun activity",
+      "date": "2024-04-27T11:48:00.000Z",
+      "suggestions": [
+        {
+          "place": "bang @office",
+          "category": "BoardGames",
+          "upvotes": [
+            "a74d"
+          ],
+          "downvotes": []
+        }
+      ],
+      "finalizedSuggestion": {
+        "place": "bang @office",
+        "category": "BoardGames",
+        "upvotes": [],
+        "downvotes": []
+      }
+    },
+    {
+      "id": "6f29",
+      "date": "2024-05-22T00:37:08.000Z",
+      "finalizedSuggestion": {
+        "category": "Sports",
+        "downvotes": [],
+        "place": "cricket nvk sports",
+        "upvotes": [
+          "a74d"
+        ]
+      },
+      "name": "test_flask 2",
+      "suggestions": [
+        {
+          "category": "Sports",
+          "downvotes": [],
+          "place": "cricket nvk sports",
+          "upvotes": [
+            "a74d"
+          ]
+        },
+        {
+          "category": "BoardGames",
+          "downvotes": [
+            "a74d"
+          ],
+          "place": "bang at office",
+          "upvotes": []
+        }
+      ]
+    }
+  ]
+}
